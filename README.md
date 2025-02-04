@@ -17,5 +17,4 @@ a third annotator assigned the final label.
 If you use this dataset, please cite our paper:
 
 Detection of Racist Language in French Tweets
-Natalia Vanetik and Elisheva Mimoun
-Information Hournal, TBP in 2022
+Vanetik, N. and Mimoun, E., 2022. Detection of racist language in French tweets. Information, 13(7), p.318.
